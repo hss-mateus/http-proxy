@@ -1,0 +1,13 @@
+name: http-proxy
+version: 0.1.0
+
+authors:
+  - hss-mateus <hss-mateus@pm.me>
+
+targets:
+  http-proxy:
+    main: src/http-proxy.cr
+
+crystal: 1.3.0
+
+license: MIT
